@@ -4,7 +4,7 @@ The goal of this project is to use web scraping to extract data from different s
 
 The code is available in [this file](https://github.com/clayamakita/webscraping_project_01/blob/main/webscraping_01.py) and the idea is to develop it over time, to include other websites, other products and register the prices on a daily or weekly basis.
 
-## Running the project
+## Starting the project
 
 ### Installing all modules
 ```
@@ -15,7 +15,7 @@ or
 python -m pip install -r requirements.txt
 ```
 
-### Starting the project
+### Running the project
 
 ```
 python [filename]
