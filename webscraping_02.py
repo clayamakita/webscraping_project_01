@@ -39,9 +39,7 @@ parameters_df = pd.DataFrame.from_dict(parameters)
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
 
 # read into a dataframe list of products
-webscraping_list = pd.read_csv(
-    r'C:\Users\Clarissa\Documents\Datasets\webscraping_project_01/webscraping_product_list.csv'
-    )
+webscraping_list = pd.read_csv('./webscraping_product_list.csv')
 
 # define list of supermarkets to be scraped
 supermarket_list = ['sfw', 'sof']
@@ -82,6 +80,4 @@ timestamp = datetime.now().strftime('%Y%m%d-%H%M')
 print(timestamp)
 
 # save data to csv file
-webscraping_results.to_csv(
-    r'C:\Users\Clarissa\Documents\Datasets\webscraping_project_01/webscraping_results_' + timestamp + '.csv'
-    )
+webscraping_results.to_csv('./webscraping_results_' + timestamp + '.csv')
