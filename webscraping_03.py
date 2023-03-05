@@ -24,7 +24,7 @@ def transform(soup, selector_name, class_name, selector_price, class_price):
 parameters = {
     'sfw': {
         'selector_name': 'h1', 
-        'class_name': 'heading__Base-sc-1vuwqc7-0-h1 sc-jgrIVw oOzLa iCeTLf', 
+        'class_name': 'heading__Base-sc-1vuwqc7-0-h1', 
         'selector_price': 'div',
         'class_price': 'spacing__Spacing-sc-ngu0v9-0 lbarHM'}, 
     'sof': {
