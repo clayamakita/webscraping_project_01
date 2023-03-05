@@ -63,7 +63,10 @@ for supermarket in supermarket_list:
         product_name = product_name_price[0]
         product_price = product_name_price[1]
 
+        timestamp = datetime.now()
+
         product = {
+            'datetime': timestamp, 
             'supermarket': supermarket, 
             'product' : product, 
             'product_name': product_name, 
