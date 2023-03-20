@@ -1,0 +1,21 @@
+,datetime,supermarket,product,product_name,product_price
+0,2023-03-19 18:43:51.669082,sfw,Milk,Dairyland 2% Milk 1 L,2.99
+1,2023-03-19 18:43:52.443871,sfw,Tomato sauce,Hunt's Fat-Free Tomato Sauce 680 ml,2.99
+2,2023-03-19 18:43:53.554368,sfw,Spaguetti,Catelli Pasta Spaghetti 900 g,5.49
+3,2023-03-19 18:43:54.364550,sfw,Bacon,Schneiders Hickory Smoked Classic Cut Bacon 375 g,7.99
+4,2023-03-19 18:43:55.282867,sfw,Beans,Unico Black Beans 540 ml,2.49
+5,2023-03-19 18:43:56.216080,sfw,Strawberries,Strawberries 454 g,7.29
+6,2023-03-19 18:43:57.300503,sfw,Bread,Dempster's White Bread Stay Fresh 570 g,3.89
+7,2023-03-19 18:43:58.102344,sfw,Sliced ham,Maple Leaf Natural Selections Sliced Deli Ham Baked 175 g,8.49
+8,2023-03-19 18:43:58.942184,sfw,Sliced cheese,Cracker Barrel Slices Cheese Mozzarella 240 g,6.69
+9,2023-03-19 18:44:00.032683,sfw,Hot dogs,Maple Leaf Natural Top Dogs Original Hot Dogs 375 g,6.79
+10,2023-03-19 18:44:06.543831,sof,Milk,"Dairyland - 2% Milk, 1 Litre",2.89
+11,2023-03-19 18:44:07.468382,sof,Tomato sauce,"Hunt's - Tomato Sauce, 680 Millilitre",3.29
+12,2023-03-19 18:44:08.363870,sof,Spaguetti,"Catelli - Classic, Spaghetti Pasta, 900 Gram",4.99
+13,2023-03-19 18:44:09.155984,sof,Bacon,"Schneiders - Hickory Smoked Classic Cut Bacon, 375 Gram",7.49
+14,2023-03-19 18:44:10.547829,sof,Beans,"Unico - Black Beans, 540 Millilitre",2.99
+15,2023-03-19 18:44:11.896763,sof,Strawberries,"Strawberries - Fresh, 1 Pound",6.99
+16,2023-03-19 18:44:13.175195,sof,Bread,"Dempster's - White Bread - Sliced, 570 Gram",3.99
+17,2023-03-19 18:44:14.919872,sof,Sliced ham,"Maple Leaf - Natural Selections Sliced Deli Ham, Baked, 175 Gram",8.49
+18,2023-03-19 18:44:16.700749,sof,Sliced cheese,"Cracker Barrel - Mozzarella Cheese Slices, 240 Gram",6.99
+19,2023-03-19 18:44:17.473486,sof,Hot dogs,"Maple Leaf - Natural Top Dogs Original Hot Dogs, 375 Gram",7.49
