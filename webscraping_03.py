@@ -83,4 +83,4 @@ timestamp = datetime.now().strftime('%Y%m%d-%H%M')
 print(timestamp)
 
 # save data to csv file
-webscraping_results.to_csv('./webscraping_results_' + timestamp + '.csv')
+webscraping_results.to_csv('./webscraping_results/webscraping_results_' + timestamp + '.csv', index=False)
