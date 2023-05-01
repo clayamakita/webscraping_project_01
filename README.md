@@ -8,7 +8,7 @@ The goal of this project is to use web scraping to extract data from different s
 
 3. March 2023: The code is available in [this file](https://github.com/clayamakita/webscraping_project_01/blob/main/webscraping_03.py). New products were included, improvements to the script were made and the script was run about once a week. A [Jupyter Notebook](https://github.com/clayamakita/webscraping_project_01/blob/main/analysis_webscraping.ipynb) was created to read the files and clean the data. 
 
-4. April 2023: The idea for this month is to continue running the script once a week and analyze the results obtained so far.
+4. April 2023: The script was run once a week and results are being analyzed in a [Jupyter Notebook](https://github.com/clayamakita/webscraping_project_01/blob/main/analysis_webscraping.ipynb) and in a [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNDJkYjU3ZjctNGI4My00ZWE5LTlmYjAtMmM2ZTRhZGM5YTg4IiwidCI6ImZjNzk4OWZkLTI5NDUtNGViZS1hMWQxLTM2N2NkYWNhNjE2NSJ9).
 
 ## Starting the project
 
